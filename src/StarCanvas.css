@@ -1,0 +1,11 @@
+.star-canvas-container{
+}
+
+#star-canvas{
+  border:1px solid black;
+  margin:auto;
+}
+
+#starsvg{
+  display:none;
+}
